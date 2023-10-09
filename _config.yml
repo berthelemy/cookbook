@@ -115,9 +115,9 @@ aux_links_new_tab: true
 nav_sort: case_sensitive # Capital letters sorted before lowercase
 
 # External navigation links
-nav_external_links:
-  - title: "Author's website"
-    url: https://mark.berthelemy.net
+#nav_external_links:
+#  - title: "Author's website"
+#    url: https://mark.berthelemy.net
 
 # Footer content
 # appears at the bottom of every page's main content
