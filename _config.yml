@@ -17,7 +17,7 @@
 
 title: Mark Berthelemy's Cookbook
 description: Recipes for work
-url: https://berthelemy.github.io/cookbook
+url: https://berthelemy.github.io/cookbook/
 baseurl: "/cookbook" # the subpath of your site, e.g. /blog
 
 theme: just-the-docs
