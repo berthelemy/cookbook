@@ -17,7 +17,7 @@
 
 title: Mark Berthelemy's Cookbook
 description: Recipes for work
-url: https://berthelemy.github.io/cookbook/
+url: https://berthelemy.github.io/cookbook
 baseurl: "/cookbook" # the subpath of your site, e.g. /blog
 
 theme: just-the-docs
@@ -36,21 +36,7 @@ exclude:
    - vendor/cache/
    - vendor/gems/
    - vendor/ruby/
- # specific to the theme website:
-   - bin/
-   - lib/
-   - "*.gemspec"
-   - "*.gem"
-   - LICENSE.txt
-   - package.json
-   - package-lock.json
-   - Rakefile
-   - README.md
-   - CODE_OF_CONDUCT.md
-   - docker-compose.yml
-   - Dockerfile
- # theme test code
-   - fixtures/
+
 
 # Set a path/url to a logo that will be displayed instead of the title
 #logo: "/assets/images/just-the-docs.png"
