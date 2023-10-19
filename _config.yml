@@ -24,7 +24,6 @@ theme: just-the-docs
 
 permalink: pretty
 
-include: ['_pages']
 
 
 exclude:
