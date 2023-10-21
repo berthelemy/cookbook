@@ -1,6 +1,7 @@
 ---
 layout: default
 title: First contact questions
+slug: first-contact-questions
 parent: Working with clients
 ---
 # First contact questions
