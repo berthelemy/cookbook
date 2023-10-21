@@ -22,6 +22,8 @@ baseurl: "/cookbook" # the subpath of your site, e.g. /blog
 
 theme: just-the-docs
 
+favicon_ico: "/assets/images/favicon.ico"
+
 permalink: /:slug/
 
 
