@@ -15,9 +15,9 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Mark Berthelemy's Cookbook
-description: Recipes for work
-url: https://berthelemy.github.io/cookbook
+title: IT Consultant Toolkit
+description: Your 1000 piece getting started toolkit
+url: https://berthelemy.github.io/toolkit
 baseurl: "/cookbook" # the subpath of your site, e.g. /blog
 
 theme: just-the-docs
