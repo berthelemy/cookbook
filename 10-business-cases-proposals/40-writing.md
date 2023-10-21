@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Writing
-parent: Working with clients
+permalink: /business-cases-proposals/writing
+parent: Business cases and proposals
 ---
 # First contact questions
 {: .no_toc }
