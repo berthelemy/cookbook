@@ -3,6 +3,7 @@ layout: default
 title: Writing
 permalink: /business-cases-proposals/writing
 parent: Business cases and proposals
+nav_order: 40
 ---
 # First contact questions
 {: .no_toc }

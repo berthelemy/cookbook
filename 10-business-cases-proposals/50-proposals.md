@@ -3,6 +3,7 @@ layout: default
 title: Proposals
 permalink: /business-cases-proposals/proposals
 parent: Business cases and proposals
+nav_order: 50
 ---
 # First contact questions
 {: .no_toc }

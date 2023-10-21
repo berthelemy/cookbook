@@ -3,6 +3,7 @@ layout: default
 title: Initial contact
 permalink: /business-cases-proposals/initial-contact
 parent: Business cases and proposals
+nav_order: 10
 ---
 # Initial contact
 
