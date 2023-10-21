@@ -3,14 +3,15 @@ layout: default
 title: Lean canvas
 parent: Product development
 ---
-# Why invest in learning technology?
-{: .no_toc }
+Adapted from [Roman Pichler's Product Vision Board](https://www.romanpichler.com/tools/product-vision-board/):
 
-## Table of contents
-{: .no_toc .text-delta }
-
-1. TOC
-{:toc}
+- What is your vision for the thing you're creating? (The product)
+- Why do you want to make it?
+- Who will be using the product? (The users)
+- Who will pay for the product? (The customers)
+- What problems will the product solve for the users and the customers?
+- What is special about your product? Are there off-the-shelf solutions that would work just as well?
+- What will you and/or your organisation benefit from creating the solution?
 
 Organisations invest in Learning Technologies because they can, when used well:
 

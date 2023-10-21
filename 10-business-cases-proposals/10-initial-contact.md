@@ -1,19 +1,14 @@
 ---
 layout: default
-title: First contact questions
-permalink: /working-with-clients/first-contact-questions
-parent: Working with clients
+title: Initial contact
+permalink: /business-cases-proposals/initial-contact
+parent: Business cases and proposals
 ---
-# First contact questions
-{: .no_toc }
+# Initial contact
 
-## Table of contents
-{: .no_toc .text-delta }
+The first conversation is a chance to get to know the client and to start to explore their problem(s).
 
-1. TOC
-{:toc}
-
-For most of my new clients, I ask:
+Try using these open-ended questions. Although remember to do your research before the conversation. It always looks better.
 
 1. What are you about? What do you do and why?
 2. What are the problems you're experiencing that you want my help with?
@@ -21,13 +16,33 @@ For most of my new clients, I ask:
 4. What have you tried already?
 5. What are you hoping to achieve?
 
-The answers to these help me to assess where you are in your thinking and how I might be able to add value.
+At this point, you may all decide that perhaps you're not the right person for the job. That's fine. It's best to acknowledge that early on.
 
-## Digging deeper
+## Exploring the problem
+
+Once you're ready to go further, then it's time to explore the problem in more detail. Pick and choose from these questions:
+
+- How many people does the problem affect? Are they all internal to the organisation?
+- What does success look like for these people?
+- What does success look like for the organisation?
+- How do you currently address the problem?
+- What is working?
+- What isn't working?
+
+{: .note }
+Make the important measurable, not the measurable important.
+
+## Looking at the context
+
+And then looking further at the organisation and its context:
+
+- How is your organisation structured?
+- Who are your "customers" (in the widest sense)
+- What IT systems do you currently have in place across the organisation?
+- How do people access the IT? (Networks, wifi, VPN)
+- Do you have single sign-on in place?
 
 One of the most common requests I get is to help people and organisations define their requirements for a technology solution - whether it's a solution that they're going to sell to paying customers, or one for an internal audience. This might then lead to creating a board-level proposal, leading a procurement process, or managing a project to build a new product.
-
-I'm claiming very little originality for the questions. They are simply ones that I've found work well.
 
 Adapted from [Roman Pichler's Product Vision Board](https://www.romanpichler.com/tools/product-vision-board/):
 

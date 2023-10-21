@@ -19,7 +19,7 @@ These points of change happen throughout an organisation's lifecycle:
 - When a crisis is about to happen
 - When organisations merge
 
-The generalist IT consultant's role is usually to translate between technical and non-technical audiences.
+The generalist IT consultant's role is usually to translate between technical and non-technical audiences during these points of change:
 
 - Writing business cases and proposals
 - Designing solutions and roadmaps to get there
