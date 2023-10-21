@@ -6,6 +6,8 @@ parent:
 has_children: false
 nav_order: 1
 ---
+# Introduction
+
 Organisations tend to require a consultant's input when they're at an inflexion point. When they know they need to make a change but don't know how to make it happen.
 
 These points of change happen throughout an organisation's lifecycle:

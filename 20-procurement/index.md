@@ -3,7 +3,7 @@ layout: default
 title: Procurement
 parent: 
 has_children: true
-nav_order: 2
+nav_order: 3
 ---
 # Procurement
 
